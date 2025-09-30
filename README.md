@@ -1,14 +1,14 @@
 # Lucas-Turini
 ## 🚀 Sobre mim
-📘Estudo atualmente no SESI
+📘Estudo atualmente na USCS 
 
 
-💻Faço curso de Desenvolvimento de Sistemas no SENAI
+💻Completei o curso de Desenvolvimento de Sistemas no SENAI
 
 👨‍💻Sou desenvolvedor Front-End
 
 ## 🛠 Habilidades
- HTML, CSS, Desenvolvedor mobile, GIMP,  
+ HTML, CSS, Desenvolvedor mobile, GIMP, JavaScript, PHP, JAVA, C, React,
 ## 📱Contato
 
 
